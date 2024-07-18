@@ -1,6 +1,5 @@
 # Michael Yisa's GitHub Profile
 
-
 ## 👋 Hello, I'm Michael Yisa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/michael-yisa-382a9b249)
@@ -21,7 +20,7 @@
 - [Bank Data Churn Model](https://github.com/mikeyisa/Bank-data-Churn-model)
 - [Decision Tree Modeling Using Churn Data](https://github.com/mikeyisa/Decision-Tree-Modeling-using-churn-data)
 - [K-Mean Color Compression Demonstration](https://github.com/mikeyisa/K-Mean-Color-Compression-Demonstration)
-- [Spotify Recommender System](https://github.com/mikeyisa/Spotify-recommender-system)
+- [California Housing Data](https://github.com/mikeyisa/California-housing-data-)
 
 ## Skills
 | Skill                                      | Associated Project                                                                                     |
@@ -29,7 +28,7 @@
 | Predictive Modeling                        | [Bank Data Churn Model](https://github.com/mikeyisa/Bank-data-Churn-model)                             |
 | Decision Tree Analysis                     | [Decision Tree Modeling Using Churn Data](https://github.com/mikeyisa/Decision-Tree-Modeling-using-churn-data) |
 | K-Means Clustering                         | [K-Mean Color Compression Demonstration](https://github.com/mikeyisa/K-Mean-Color-Compression-Demonstration) |
-| Recommender Systems                        | [Spotify Recommender System](https://github.com/mikeyisa/Spotify-recommender-system)                   |
+| Housing Price Prediction                   | [California Housing Data](https://github.com/mikeyisa/California-housing-data-)                        |
 
 ## Tools
 
@@ -55,4 +54,3 @@
 ### Cloud
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-
